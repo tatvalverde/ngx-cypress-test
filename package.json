@@ -1,0 +1,17 @@
+{
+  "name": "ngx-cypress-test",
+  "version": "1.0.0",
+  "description": "ngx-cypress-test ZERO TO HERO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatvalverde/ngx-cypress-test.git"
+  },
+  "homepage": "https://github.com/tatvalverde/ngx-cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  }
+}
