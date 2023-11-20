@@ -33,7 +33,5 @@ describe('Date picker tests', ()=>{
             cy.wrap(input).invoke('prop', 'value').should('contain', dateToAssert)
             cy.wrap(input).should('have.value', dateToAssert)
         })
-
     })
-
 })
