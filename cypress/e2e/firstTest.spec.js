@@ -34,7 +34,6 @@ describe('First Test suite', ()=>{
 
         // by cypress test ID
         cy.get('[data-cy="imputEmail1"]')
-
     })
 
     it('Find methods of locators', ()=>{
@@ -122,5 +121,4 @@ describe('First Test suite', ()=>{
             expect(property).to.equal('test@test.com')
         })
     })
-
 })
